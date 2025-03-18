@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 042db01efc6644a0db1aa19d1584a67d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - energizerPrefab: {fileID: 2077942274566318794, guid: 410dae93a9e7a4663a62cc286470a86f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
