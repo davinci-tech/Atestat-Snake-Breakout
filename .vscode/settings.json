@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Atestat.sln"
+    "dotnet.defaultSolution": "Atestat-Snake-Breakout.sln"
 }
