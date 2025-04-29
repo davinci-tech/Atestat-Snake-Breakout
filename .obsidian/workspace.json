@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "d93878cd9ec0a9e3",
+    "id": "56e17da4d781ec8c",
     "type": "split",
     "children": [
       {
-        "id": "89cbe17935e80abe",
+        "id": "caf61601fecb3b9c",
         "type": "tabs",
         "children": [
           {
-            "id": "b63d0f61ed0f59d9",
+            "id": "ebaba09ce833f636",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "479e7ff30fab88d4",
+    "id": "14e4204a58964fc8",
     "type": "split",
     "children": [
       {
-        "id": "85181fd876360d0a",
+        "id": "768517cc4bea431c",
         "type": "tabs",
         "children": [
           {
-            "id": "f60c017ad7fc85bb",
+            "id": "9b8909d7b3b70e79",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "0a5c8d0cdcd4edae",
+            "id": "ce20f70e188b5fe5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "16dd67def224f8d9",
+            "id": "6ef7dfda0c9a9290",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +77,19 @@
     "width": 300
   },
   "right": {
-    "id": "d4ce10747a51f1d6",
+    "id": "466110f04b4a530d",
     "type": "split",
     "children": [
       {
-        "id": "cd5350cafae53582",
+        "id": "802a96255b4c33b2",
         "type": "tabs",
         "children": [
           {
-            "id": "edeb8356a34850c3",
+            "id": "0efaa3059b106732",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "1d6d00c5c1043e00",
+            "id": "4d2bd385c0a6abda",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "3b3db90fbe8b56fc",
+            "id": "3b556c7952eb9db9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +131,17 @@
             }
           },
           {
-            "id": "1a961274baca4800",
+            "id": "99d2d4b47e8e18c2",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline"
             }
           }
         ]
@@ -168,8 +161,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b63d0f61ed0f59d9",
-  "lastOpenFiles": [
-    "README.pdf"
-  ]
+  "active": "ebaba09ce833f636",
+  "lastOpenFiles": []
 }
