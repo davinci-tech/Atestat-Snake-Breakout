@@ -3,12 +3,12 @@ Nume elev: Neagu Ștefan-Claudel
 Profesor îndrumător: Ungureanu Florentina  
 
 # Introducere
-Din dorința de a învăța limbajul C# și a mă familiariza cu dezvoltarea de jocuri am creat proiectul actual. Acesta prezintă utilizatorului două jocuri bazate pe [Snake](https://en.wikipedia.org/wiki/Snake_(video_game_genre)) și [Breakout](https://en.wikipedia.org/wiki/Breakout_(video_game)), dar cu niște modificări menite să aducă notă de originalitate și dificultate.
+Din dorința de a învăța limbajul C# și a mă familiariza cu dezvoltarea de jocuri am creat proiectul actual. Acesta prezintă utilizatorului două jocuri bazate pe [Snake](https://en.wikipedia.org/wiki/Snake_(video_game_genre)) și [Breakout](https://en.wikipedia.org/wiki/Breakout_(video_game)), dar cu niște modificări menite să aducă o notă de originalitate și dificultate.
 
 # Tehnologii folosite
-Proiectul a fost creat cu ajutorul programului [Unity](https://en.wikipedia.org/wiki/Unity_(game_engine)), care facilitează crearea de jocuri video. Acesta oferă dezvoltatorului librării cu diverse funcții utilitare și o interfață grafică pentru dezvoltarea aplicației.
+Proiectul a fost creat cu ajutorul programului [Unity](https://en.wikipedia.org/wiki/Unity_(game_engine)), care facilitează dezvoltarea de jocuri video. Acesta oferă programatorului librării cu diverse funcții utilitare și o interfață grafică pentru dezvoltarea aplicației.
 
-În Unity, fiecare element din joc este un [`GameObject`](https://docs.unity3d.com/6000.0/Documentation/ScriptReference/GameObject.html), la care se pot adăuga diverse componente responsabile pentru funcționalități legate de simularea fizicii, specificarea metodei de introducere a datelor, stabilirea aspectului unui `GameObject` etc. De asemenea, utilizatorul poate crea propriile sale componente numite `Scripts`, pe care le poate atașa unui `GameObject` la alegere. Acestea sunt scrise în limbajul de programare C#.
+În Unity, fiecare element din joc este un [`GameObject`](https://docs.unity3d.com/6000.0/Documentation/ScriptReference/GameObject.html), la care se pot adăuga diverse componente responsabile pentru funcționalități legate de simularea fizicii, specificarea dispozitivelor de intrare, stabilirea aspectului unui `GameObject` etc. De asemenea, utilizatorul poate crea propriile sale componente numite `Scripts`, pe care le poate atașa unui `GameObject` la alegere. Acestea sunt scrise în limbajul de programare C#.
 
 Pentru ca un `Script` să poată fi atașat unui `GameObject`, trebuie să aibă declarat o clasă publică ce moștenește metode din `MonoBehaviour`. Clasa astfel formată poate suprascrie anumite metode specifice oferite de Unity. Câteva dintre acestea sunt:
 - `Awake`: are rolul de a inițializa instanța actuală a clasei din `Script`
