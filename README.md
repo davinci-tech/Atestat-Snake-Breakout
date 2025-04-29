@@ -1,20 +1,7 @@
 # Detalii proiect
 Nume elev: Neagu Ștefan-Claudel  
 Profesor îndrumător: Ungureanu Florentina  
-# Cuprins
-1. [[#Detalii proiect]]
-2. [[#Cuprins]]
-3. [[#Introducere]]
-4. [[#Tehnologii folosite]]
-5. [[#Structura proiectului]]
-	1. [[#Ecranul Principal]]
-	2. [[#Snake]]
-		1. [[#Codul pentru creșterea și deplasarea șarpelui]]
-	3. [[#Breakout]]
-		1. [[#Codul pentru deplasarea mingii]]
-6. [[#Posibile îmbunătățiri]]
-7. [[#Concluzie]]
-8. [[#Bibliografie]]
+
 # Introducere
 Din dorința de a învăța limbajul C# și a mă familiariza cu dezvoltarea de jocuri am creat proiectul actual. Acesta prezintă utilizatorului două jocuri bazate pe [Snake](https://en.wikipedia.org/wiki/Snake_(video_game_genre)) și [Breakout](https://en.wikipedia.org/wiki/Breakout_(video_game)), dar cu niște modificări menite să aducă o notă de originalitate și dificultate.
 
