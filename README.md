@@ -39,7 +39,7 @@ Dintre componentele care pot fi folosite pe un `GameObject` cele mai utilizate s
 ## Ecranul Principal
 Când utilizatorul deschide aplicația, este întâmpinat de următorul ecran (denumit Ecran Principal):
 
-![[DocumentationAssets/Main Screen.png]]
+![Main Screen](DocumentationAssets/Main Screen.png)
 
 Aici sunt prezentate cele două jocuri. Fiecare din ele are un titlu descriptiv, o imagine reprezentativă și o provocare pentru utilizator, pe care acesta poate să o aibă în vedere în timp ce se joacă. Alegerea unui mod de joc se face prin apăsarea pe imaginea reprezentativă acestuia. Jucătorul poate reveni mereu la ecranul principal prin apăsarea tastei *Escape*, localizată de regulă în partea din stânga-sus a tastaturii.
 
@@ -57,7 +57,7 @@ Segmentele maro reprezintă șarpele, o entitate virtuală controlată de către
 
 Pe lângă pătrățica roșie, mai există încă doi itemi cu diverse efecte. În poza de mai jos apar toți trei:
 
-![[DocumentationAssets/Snake gameplay.png]]
+!(Snake gameplay)[DocumentationAssets/Snake gameplay.png]
 
 **Pătrățica roșie** (numită și **food**) crește lungimea șarpelui cu 1 și scorul cu `_multiplier`, o variabilă privată ce stochează cu cât ar trebui să fie mărit scorul la un moment dat. Inițial `_multiplier` este egal cu 1.
 
