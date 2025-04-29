@@ -39,7 +39,7 @@ Dintre componentele care pot fi folosite pe un `GameObject` cele mai utilizate s
 ## Ecranul Principal
 Când utilizatorul deschide aplicația, este întâmpinat de următorul ecran (denumit Ecran Principal):
 
-![Main Screen](DocumentationAssets/Main Screen.png)
+![Main Screen](DocumentationAssets/Main%20Screen.png)
 
 Aici sunt prezentate cele două jocuri. Fiecare din ele are un titlu descriptiv, o imagine reprezentativă și o provocare pentru utilizator, pe care acesta poate să o aibă în vedere în timp ce se joacă. Alegerea unui mod de joc se face prin apăsarea pe imaginea reprezentativă acestuia. Jucătorul poate reveni mereu la ecranul principal prin apăsarea tastei *Escape*, localizată de regulă în partea din stânga-sus a tastaturii.
 
